@@ -1,12 +1,8 @@
 ### Hello I'm NeonCrafter13 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/NeonCrafter13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNeonCrafter13&screen_name=NeonCrafter13)
-
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -23,5 +19,4 @@
 
 
 
-[twitter]: https://twitter.com/NeonCrafter13
 [youtube]: https://www.youtube.com/channel/UC05x_NGp_eqY4eni1xHnXGg
